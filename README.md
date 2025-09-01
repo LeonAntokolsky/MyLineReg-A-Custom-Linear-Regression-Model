@@ -10,9 +10,3 @@ This repository contains the implementation of `MyLineReg`, a custom linear regr
 - **Verbose Training**: Provides verbose output to monitor the training process.
 - **Predict and Retrieve Coefficients**: Functions to predict outcomes and retrieve model coefficients (weights).
 
-## Installation
-
-To install the required dependencies, run:
-
-```bash
-pip install -r requirements.txt
